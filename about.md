@@ -14,4 +14,4 @@ I like to work on software and systems, and I have skills in IT and programming!
 
 ### Contact me
 
-[email@domain.com](mailto:triple.rocha@gmail.com)
+Email: [triple.rocha@gmail.com](mailto:triple.rocha@gmail.com)
