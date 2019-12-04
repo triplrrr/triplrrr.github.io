@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning how to use Django
+title: Using Python for Linux Scripting
 ---
 
 I like to use linux at home. It's very convenient. I like being able to customize every single thing about my computer, down to the shape of the taskbar. Sure, good software is hard to find, but I like the programs that *are* on there. 
