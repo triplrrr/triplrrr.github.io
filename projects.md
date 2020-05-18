@@ -6,4 +6,5 @@ permalink: /projects/
 
 ## My Favorite Projects!
 
-Nothing here yet, but hopefully that changes. I'm constantly trying to get different things done, and I'll post updates as I do. 
+### D&D Management Bot
+My discord bot! I'm using it to run my D&D games through discord. I have many features planned, so be sure to stay tuned. 
